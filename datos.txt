@@ -1,1 +1,2 @@
 esto es una practica de creacion y sincronizacion de repositorios con git y github
+lo logre batalle bastante en realizar esto pero estoy feliz que lo logre mi computadora no tenia una libreria que ocupaba para realizxar la practica asi que ahorita ya me voy a dormir
